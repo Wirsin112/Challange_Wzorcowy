@@ -15,7 +15,7 @@ class Kula_Ognia(Czar):
 
 class Tornado(Czar):
     def __init__(self,koszt):
-        self.koszt_many = koszt
+        self.koszt_many = koszt 
         super().__init__(True,"powietrze","Tornado")
 
 
