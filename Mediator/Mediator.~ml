@@ -68,8 +68,8 @@
 <XPD:OBJ name="OwnedViews[1]" type="UMLClassView" guid="EX1VEK0a5UmOFVTN032RrQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">728</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">172</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">736</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">168</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">204</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">124</XPD:ATTR>
 <XPD:REF name="Model">lUYLuuoNV02eQ8E/4aFlewAA</XPD:REF>
@@ -99,7 +99,7 @@
 <XPD:OBJ name="OwnedViews[2]" type="UMLAssociationView" guid="Dc7PKGGoS0KBvAdQRnhrUAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">728,232;547,229</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">736,229;547,228</XPD:ATTR>
 <XPD:REF name="Model">WpszS6Jz9k2uR40UOXTNJgAA</XPD:REF>
 <XPD:REF name="Head">ovJQBLvOW0uVvwccEwTa+wAA</XPD:REF>
 <XPD:REF name="Tail">EX1VEK0a5UmOFVTN032RrQAA</XPD:REF>
@@ -200,6 +200,8 @@
 <XPD:ATTR name="Name" type="string">Make_an_offer</XPD:ATTR>
 <XPD:REF name="Owner">vYU7mGnPBEupjxd7CXbqQQAA</XPD:REF>
 </XPD:OBJ>
+<XPD:ATTR name="#TypedParameters" type="integer">1</XPD:ATTR>
+<XPD:REF name="TypedParameters[0]">fWpDqUpqOk28woyLt+orpgAA</XPD:REF>
 <XPD:ATTR name="#Associations" type="integer">1</XPD:ATTR>
 <XPD:REF name="Associations[0]">gUbboyCgqkq3aVshesZduwAA</XPD:REF>
 <XPD:ATTR name="#Attributes" type="integer">2</XPD:ATTR>
@@ -228,6 +230,12 @@
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="rRxcfAY78kyFlsweMIhP9QAA">
 <XPD:ATTR name="Name" type="string">notify</XPD:ATTR>
 <XPD:REF name="Owner">lUYLuuoNV02eQ8E/4aFlewAA</XPD:REF>
+<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="fWpDqUpqOk28woyLt+orpgAA">
+<XPD:ATTR name="Name" type="string">p</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">rRxcfAY78kyFlsweMIhP9QAA</XPD:REF>
+<XPD:REF name="Type_">vYU7mGnPBEupjxd7CXbqQQAA</XPD:REF>
+</XPD:OBJ>
 </XPD:OBJ>
 <XPD:ATTR name="#TypedFeatures" type="integer">1</XPD:ATTR>
 <XPD:REF name="TypedFeatures[0]">24iojWpSuESiCjomop7cXQAA</XPD:REF>

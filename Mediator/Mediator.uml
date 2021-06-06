@@ -69,7 +69,7 @@
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">736</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">168</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">164</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">204</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">124</XPD:ATTR>
 <XPD:REF name="Model">lUYLuuoNV02eQ8E/4aFlewAA</XPD:REF>
@@ -99,7 +99,7 @@
 <XPD:OBJ name="OwnedViews[2]" type="UMLAssociationView" guid="Dc7PKGGoS0KBvAdQRnhrUAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">736,229;547,228</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">736,226;547,227</XPD:ATTR>
 <XPD:REF name="Model">WpszS6Jz9k2uR40UOXTNJgAA</XPD:REF>
 <XPD:REF name="Head">ovJQBLvOW0uVvwccEwTa+wAA</XPD:REF>
 <XPD:REF name="Tail">EX1VEK0a5UmOFVTN032RrQAA</XPD:REF>
@@ -195,6 +195,12 @@
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="xedC/Z/yUk68d3h8HPiDXwAA">
 <XPD:ATTR name="Name" type="string">Get_mediator</XPD:ATTR>
 <XPD:REF name="Owner">vYU7mGnPBEupjxd7CXbqQQAA</XPD:REF>
+<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="zuWgLIpCWEC2YVNY9YuXDwAA">
+<XPD:ATTR name="Name" type="string">m</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">xedC/Z/yUk68d3h8HPiDXwAA</XPD:REF>
+<XPD:REF name="Type_">lUYLuuoNV02eQ8E/4aFlewAA</XPD:REF>
+</XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[1]" type="UMLOperation" guid="ze4mJ4oStU+sQRJHBVfi/gAA">
 <XPD:ATTR name="Name" type="string">Make_an_offer</XPD:ATTR>
@@ -213,6 +219,7 @@
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="24iojWpSuESiCjomop7cXQAA">
 <XPD:ATTR name="Name" type="string">mediator</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">Mediator</XPD:ATTR>
 <XPD:REF name="Type_">lUYLuuoNV02eQ8E/4aFlewAA</XPD:REF>
 <XPD:REF name="Owner">vYU7mGnPBEupjxd7CXbqQQAA</XPD:REF>
@@ -239,11 +246,14 @@
 </XPD:OBJ>
 <XPD:ATTR name="#TypedFeatures" type="integer">1</XPD:ATTR>
 <XPD:REF name="TypedFeatures[0]">24iojWpSuESiCjomop7cXQAA</XPD:REF>
+<XPD:ATTR name="#TypedParameters" type="integer">1</XPD:ATTR>
+<XPD:REF name="TypedParameters[0]">zuWgLIpCWEC2YVNY9YuXDwAA</XPD:REF>
 <XPD:ATTR name="#Associations" type="integer">1</XPD:ATTR>
 <XPD:REF name="Associations[0]">ZGV2yx2pE0qXojWl/FIFWAAA</XPD:REF>
 <XPD:ATTR name="#Attributes" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="NIopSQAl/k2HHeVu1KvLAgAA">
 <XPD:ATTR name="Name" type="string">players</XPD:ATTR>
+<XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">list&lt;Player&gt;</XPD:ATTR>
 <XPD:REF name="Owner">lUYLuuoNV02eQ8E/4aFlewAA</XPD:REF>
 </XPD:OBJ>
@@ -261,8 +271,8 @@
 <XPD:REF name="Participant">lUYLuuoNV02eQ8E/4aFlewAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">beZIpgfpEkG0tL3xs5PfhgAA</XPD:REF>
-<XPD:REF name="Views[1]">SDNCxR4Nj0+GRmfLsR3NdgAA</XPD:REF>
-<XPD:REF name="Views[2]">n2S9Pz9jsE2fyoWQLEf5vwAA</XPD:REF>
+<XPD:REF name="Views[1]">n2S9Pz9jsE2fyoWQLEf5vwAA</XPD:REF>
+<XPD:REF name="Views[2]">SDNCxR4Nj0+GRmfLsR3NdgAA</XPD:REF>
 <XPD:REF name="Views[3]">LleOCj/L1EO1kuaQ5c6VwwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="gUbboyCgqkq3aVshesZduwAA">
@@ -270,8 +280,8 @@
 <XPD:REF name="Participant">vYU7mGnPBEupjxd7CXbqQQAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">39uu7yErFUirtDhruwVsQwAA</XPD:REF>
-<XPD:REF name="Views[1]">k0t5+OucsEuoJIiumWdjzwAA</XPD:REF>
-<XPD:REF name="Views[2]">6zHdIh5UdUGFmnv6BEb99wAA</XPD:REF>
+<XPD:REF name="Views[1]">6zHdIh5UdUGFmnv6BEb99wAA</XPD:REF>
+<XPD:REF name="Views[2]">k0t5+OucsEuoJIiumWdjzwAA</XPD:REF>
 <XPD:REF name="Views[3]">iWP6aZy8tk+31Uis0E8YtwAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1f29f3a-80b1-461a-879a-7f99e36b8150" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Adapter/adapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fabryka Abstrakcyjna/fabryka_abstrakcyjna.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interpreter/interpreter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iterator/iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kompozyt/kompozyt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mediator/mediator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Memento/Memento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Most/most.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polecenie/Polecenie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prototyp/prototyp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Proxy/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyłek/flyweight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategia/strategia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Łańcuch/chain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Adapter/adapter.uml" beforeDir="false" afterPath="$PROJECT_DIR$/../Adapter/adapter.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fabryka Abstrakcyjna/Fabryka Abstrakcyjna.uml" beforeDir="false" afterPath="$PROJECT_DIR$/../Fabryka Abstrakcyjna/Fabryka Abstrakcyjna.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Iterator/iterator.uml" beforeDir="false" afterPath="$PROJECT_DIR$/../Iterator/iterator.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Iterator/iterator.~ml" beforeDir="false" afterPath="$PROJECT_DIR$/../Iterator/iterator.~ml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kompozyt/Kompozyt.uml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kompozyt/Kompozyt.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mediator/Mediator.uml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mediator/Mediator.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mediator/Mediator.~ml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mediator/Mediator.~ml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polecenie/Polecenie.uml" beforeDir="false" afterPath="$PROJECT_DIR$/../Polecenie/Polecenie.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prototyp/Prototyp.uml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prototyp/Prototyp.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proxy/Proxy.uml" beforeDir="false" afterPath="$PROJECT_DIR$/../Proxy/Proxy.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stan/stan.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Stan/stan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Łańcuch/chain.uml" beforeDir="false" afterPath="$PROJECT_DIR$/../Łańcuch/chain.uml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tb1H78gSNQLh2ISlHBQAbqZcsf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Fasada" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1f29f3a-80b1-461a-879a-7f99e36b8150" name="Default Changelist" comment="" />
+      <created>1623022883290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623022883290</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1623022898459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1623022898459" />
+  </component>
+</project>
